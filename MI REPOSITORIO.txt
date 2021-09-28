@@ -1,0 +1,2 @@
+¿QUE ES UN REPOSITORIO?  es un registro de las acciones o modificaciones que se realizan en el software (pagina web).
+¿QUE PODEMOS ENCONTRAR EN EL? (dia, hora , quien y lugar en el que hubo una modificacion.
